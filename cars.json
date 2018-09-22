@@ -1,0 +1,22 @@
+[
+	{
+		"color": "pink",
+		"model": "3 series",
+		"brand": "MBW"
+	},
+	{
+		"color": "white",
+		"model": "r series",
+		"brand": "Audi"
+	},
+	{
+		"color": "red",
+		"model": "5 Series",
+		"brand": "Mercides"
+	},
+	{
+		"color": "pink",
+		"model": "6 Series",
+		"brand": "Mercides"
+	}
+]

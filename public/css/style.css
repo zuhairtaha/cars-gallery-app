@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+    font-size: 18px !important;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.car-icon {
+    height: 5em;
+}

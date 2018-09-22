@@ -1,0 +1,14 @@
+<%- include("template/header") %>
+<div class="row">
+    <div class="col-md-3">
+        <img src='/public/images/icons/car%20(<%= id % 11 === 0 ? 1 : id % 11 %>).svg'/>
+    </div>
+    <div class="col-md-12">
+        <p><b>id: </b><span class="badge badge-info"><%= id %></span></p>
+        <p><b>color: </b><span class="badge badge-info"><%= car.color %></span></p>
+        <p><b>model: </b><span class="badge badge-info"><%= car.model %></span></p>
+        <p><b>brand: </b><span class="badge badge-info"><%= car.brand %></span></p>
+    </div>
+</div>
+<%- include("components/addCar") %>
+<%- include("template/footer") %>
